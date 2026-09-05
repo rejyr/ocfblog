@@ -19,5 +19,6 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 links = [
-    # { title = "Mail", href = "mailto:example@example.com" },
+    { title = "source", href = "https://github.com/rejyr/ocfblog" },
+    { title = "ocf", href = "https://www.ocf.berkeley.edu/" },
 ]
