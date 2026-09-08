@@ -1,5 +1,8 @@
-+++
-+++
+---
+title: "Home"
+menu: "main"
+weight: 1
+---
 
 This a blog of me (`jerrywang`) contributing to the OCF.
 

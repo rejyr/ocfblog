@@ -1,0 +1,20 @@
+baseURL = "https://www.ocf.berkeley.edu/~jerrywang"
+locale = "en-us"
+title = "ocfblog"
+theme = "hugo-bearcub"
+copyright = "Jerry Wang (CC BY 4.0)"
+
+# [languages]
+#   [languages.en]
+#     title = "ocfblog"
+#     label = "en-US"
+#     locale = "en-US"
+#     contentDir = "content"
+#     [languages.en.params]
+#       madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
+
+[params]
+madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
+
+[params.author]
+name = "Jerry Wang"
