@@ -61,4 +61,6 @@ chmod 755 -R public/
 
 [relevant commit here](https://github.com/rejyr/ocfblog/commit/ce618ec9354029d6edbf6c03144e531ed45dd437)
 
+shoutout `ericgu` for helping me work this out.
+
 fin!
