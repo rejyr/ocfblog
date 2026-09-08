@@ -14,7 +14,7 @@ copyright = "Jerry Wang (CC BY 4.0)"
 #       madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
 
 [params]
-madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
+madeWith = "[source](https://github.com/rejyr/ocfblog)"
 
 [params.author]
 name = "Jerry Wang"
